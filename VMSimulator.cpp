@@ -1,7 +1,3 @@
-// Donald Tang and Tianwei
-// I pledge my honor I have abided by the Stevens Honor System.
-// dtang4
-
 #include "page.h"
 #include "process.h"
 #include <stdlib.h>
