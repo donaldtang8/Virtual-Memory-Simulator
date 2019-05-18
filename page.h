@@ -1,7 +1,3 @@
-// Donald Tang and Tianwei
-// I pledge my honor I have abided by the Stevens Honor System.
-// dtang4
-
 #ifndef PAGE_H_
 #define PAGE_H_
 
