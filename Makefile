@@ -1,6 +1,3 @@
-# Name: Donald Tang, Tianwei
-# I pledge my honor that I have abided by the Stevens Honor System. 
-
 NAME = VMSimulator
 SRC = VMSimulator.cpp
 RM=rm -f
