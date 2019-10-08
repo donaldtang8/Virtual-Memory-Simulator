@@ -1,4 +1,4 @@
-# Virtual-Memory-Simulator
+# :floppy_disk: Virtual-Memory-Simulator
 
 ### Explanation
 
